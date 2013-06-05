@@ -1,5 +1,5 @@
 {
-  "name": "buffer-to-stream",
+  "name": "stream-to-buffer",
   "description": "Concatenate a readable stream's data into a single buffer",
   "version": "0.0.1",
   "author": {
